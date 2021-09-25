@@ -1131,8 +1131,8 @@ Portfolio
 }
 
 .our-portfolio {
-  padding-top: 150px;
-  margin-top: 150px;
+  padding-top: 20px;
+  margin-top: 20px;
   position: relative;
 }
 
@@ -1490,7 +1490,7 @@ Video
   width: 220px;
   height: 471px;
   left: 0;
-  top: 45px;
+  top: 120px;
   position: absolute;
 }
 
