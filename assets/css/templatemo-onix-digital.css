@@ -1496,7 +1496,7 @@ Video
 
 .our-videos .videos-right-dec img {
   width: 730px;
-  height: 523px;
+  height: 400px;
   right: 0;
   top: 45px;
   position: relative;
@@ -1505,8 +1505,8 @@ Video
 .our-videos {
   position: relative;
   margin-bottom: 45px;
-  padding-top: 45px;
-  margin-top: 45px;
+  padding-top: 0px;
+  margin-top: 0px;
 }
 
 .our-videos .naccs {
