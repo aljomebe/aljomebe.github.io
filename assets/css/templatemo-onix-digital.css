@@ -1073,6 +1073,8 @@ About
 .about-us {
   margin-top: 0px;
   padding-top: 100px;
+  margin-bottom: 0px;
+  padding-bottom: 100px;
 }
 
 .about-us .left-image {
